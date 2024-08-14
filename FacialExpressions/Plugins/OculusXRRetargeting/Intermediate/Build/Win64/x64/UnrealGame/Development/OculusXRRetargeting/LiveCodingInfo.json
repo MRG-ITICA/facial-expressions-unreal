@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRRetargeting.cpp.obj": [
+			"OculusXRFacialExpressionMap.gen.cpp.obj",
+			"OculusXRRetargeting.init.gen.cpp.obj",
+			"OculusXRFacialExpressionToAnimationCurve.cpp.obj",
+			"OculusXRRetargeterAnimNode.cpp.obj",
+			"OculusXRRetargeting.cpp.obj"
+		]
+	}
+}

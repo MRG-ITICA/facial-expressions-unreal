@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"OculusXRRetargeting": "UnrealEditor-OculusXRRetargeting.dll",
+		"OculusXRRetargetingEditor": "UnrealEditor-OculusXRRetargetingEditor.dll"
+	}
+}
